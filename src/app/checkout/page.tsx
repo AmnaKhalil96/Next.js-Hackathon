@@ -1,8 +1,8 @@
 import Image from 'next/image'
 import React from 'react'
-import deliverIcon from "/images/icons/deliver.svg";
-import product38 from '/images/products/product-38.png';
-import product67 from '/images/products/product-67.png';
+import deliverIcon from "@public/images/icons/deliver.svg";
+import product38 from '@public/images/products/product-38.png';
+import product67 from '@public/images/products/product-67.png';
 
 const page = () => {
   return (
